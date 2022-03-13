@@ -321,7 +321,9 @@ textarea {
   .projects__row:last-child {
     margin-bottom: 0; }
   .projects__row-img-cont {
-    overflow: hidden; }
+    overflow: hidden;
+    box-shadow: 0px 0px 10px 0 rgba(0, 0, 0, .5);
+  border: 0 solid black; }
   .projects__row-img {
     width: 100%;
     display: block;
