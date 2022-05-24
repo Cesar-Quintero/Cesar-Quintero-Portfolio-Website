@@ -35,7 +35,7 @@ Responsiveness. Being able to use CSS flexbox to create fluid, responsive contai
 <a target="_blank" href="https://donutking.netlify.app/">Donut King</a>
       <br />
         <a target="_blank" href="https://donutking.netlify.app/">
-          <img src="RMimagesdonutKingScreenshot.png" width="100%" alt="Donut King"/>
+          <img src="RMimages/donutKingScreenshot.png" width="100%" alt="Donut King"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
