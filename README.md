@@ -25,23 +25,23 @@ Responsiveness. Being able to use CSS flexbox to create fluid, responsive contai
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="">Coiffeur</a>
+<a target="_blank" href="https://github.com/Cesar-Quintero/Coiffeur">Coiffeur</a>
         <br />
-      <a target="_blank" href="https://coiffeur.netlify.app/">
+      <a target="_blank" href="https://github.com/Cesar-Quintero/Coiffeur">
             <img src="RMimages/CoiffeurScreenshot.png" width="100%"  alt="Coiffeur"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://donutking.netlify.app/">Donut King</a>
+<a target="_blank" href="https://github.com/Cesar-Quintero/donut-king">Donut King</a>
       <br />
-        <a target="_blank" href="https://donutking.netlify.app/">
+        <a target="_blank" href="https://github.com/Cesar-Quintero/donut-king">
           <img src="RMimages/donutKingScreenshot.png" width="100%" alt="Donut King"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://jeffryoneilphotography.netlify.app/">Jeffry Oneil Photography</a>
+<a target="_blank" href="https://github.com/Cesar-Quintero/Jeffry-Oneill-Photography">Jeffry Oneil Photography</a>
         <br />
-        <a target="_blank" href="https://jeffryoneilphotography.netlify.app/">
+        <a target="_blank" href="https://github.com/Cesar-Quintero/Jeffry-Oneill-Photography">
           <img src="RMimages/JefferyOneill.jpg" width="100%" alt="Jeffry Oneil Photography"/>
         </a>
     </td>
