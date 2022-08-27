@@ -734,3 +734,20 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+#emailAdress {
+  color: #ebebeb;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+#emailAdress:hover {
+  text-shadow: 0 0 2px rgb(171, 171, 171);
+}
+
+@media screen and (max-width: 900px) {
+  #about, .about__content-details-para {
+    text-align: center;
+    margin: 0 auto;
+  }
+}
